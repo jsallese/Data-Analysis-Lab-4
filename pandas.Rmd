@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Panda Code Origin](http://nbviewer.jupyter.org/url/dirk-loss.de/ipython-pandas-2013-05/pcap2.ipynb)
 
+[Github Code](https://github.com/jsallese/Data-Analysis-Lab-4/blob/master/pandas.Rmd)
+
 ## Purpose: 
 
 The purpose of this report is to determine the location of the orgin of the emails that are 
